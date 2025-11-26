@@ -1,0 +1,3 @@
+O que é o ReadMe
+
+O ReadMe serve para quem esta interessado no nosso repositorio poder ler uma pequena explicação sobre o que faz a aplicação

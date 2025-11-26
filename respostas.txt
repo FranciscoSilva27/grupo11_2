@@ -9,3 +9,7 @@ Diga qual o comando git para verificar os ficheiros adicionados que não estão 
 
 git 
 git
+
+Diga o que faz o comando git log --follow meu_script.py
+
+Este comando serve para ver o historico de commits des ficheiro

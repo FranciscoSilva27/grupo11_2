@@ -1,6 +1,4 @@
 B- Duas das vantagens dos Sistemas de Controlo de Versões são a possibilidade de poder trabalhar num projeto de equipa, por exemplo, numa funcionalidade e não ter que esperar
 pela parte dos outros membros da equipa e a outra vantagem é, como o nome diz, controlar as versões, ou seja, o membro de equipa 1 entregar uma versão mas por exemplo o membro 2
 ter a sua e não se perder código lá para o meio, como por exemplo, existir  um ficheiro chamado "versãofinal", outro chamado "versão_FINALMENTE"
-e outro chamado "versão_final_agora_e_que_e" e o código inicial se perder todo e ficar apenas com bocados.
-
-C-Os 3 estados em que um ficheiro pode estar são: unmodified, modified e staged.
+e outro chamado "versão_final_agora_e_que_e" e o código inicial se perder todo e ficar apenas com bocados.  

@@ -4,3 +4,8 @@ ter a sua e não se perder código lá para o meio, como por exemplo, existir  u
 e outro chamado "versão_final_agora_e_que_e" e o código inicial se perder todo e ficar apenas com bocados.
 
 C-Os 3 estados em que um ficheiro pode estar são: unmodified, modified e staged.
+
+Diga qual o comando git para verificar os ficheiros adicionados que não estão como staged, e ficheiros que estão como staged
+
+git 
+git

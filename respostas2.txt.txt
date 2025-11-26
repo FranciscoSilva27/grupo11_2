@@ -1,3 +1,8 @@
 O que é o ReadMe
 
 O ReadMe serve para quem esta interessado no nosso repositorio poder ler uma pequena explicação sobre o que faz a aplicação
+
+O que é o Merge, que tipos de merge conhece e descreva-os.
+
+O merge é quando juntamos o conteudo de duas branches diferentes, e os merges que eu conheço são o merge normal e o merge pullrequest que faz o
+mesmo que o merge normal mas é pedido no github e outro colaborador tem de rever e aceitar esse merge pullrequest
